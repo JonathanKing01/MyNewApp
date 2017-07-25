@@ -13,7 +13,7 @@ namespace MyNewApp
 		{
 			InitializeComponent();
 
-			MainPage = new MyNewApp.MainPage();
+			MainPage = new MyNewApp.TabsPage();
 		}
 
 		protected override void OnStart ()

@@ -2,16 +2,46 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>c:\users\jon_o_000\documents\visual studio 2017\Projects\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>c:\users\jon_o_000\documents\visual studio 2017\Projects\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Client\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\PCLCrypto\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Plugin.Geolocator\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Plugin.Media\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.MediaRouter\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Client\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\PCLCrypto\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Geolocator\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Media\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>c:\users\jon_o_000\documents\visual studio 2017\Projects\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>c:\users\jon_o_000\documents\visual studio 2017\Projects\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Client.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\PCLCrypto.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Plugin.CurrentActivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Plugin.Geolocator.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Plugin.Media.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Plugin.Permissions.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.MediaRouter.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jon_o_000\Documents\GitHub\MyNewApp\MyNewApp\MyNewApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
