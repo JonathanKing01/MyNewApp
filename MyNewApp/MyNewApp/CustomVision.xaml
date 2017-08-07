@@ -1,13 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MyNewApp.CustomVision">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MyNewApp.CustomVision" Title="Analyse">
+    <ScrollView>
     <StackLayout Margin="20" Orientation="Vertical">
         <Button Text="Take Photo and Analyze" Clicked="loadCamera" />
         <StackLayout Orientation="Horizontal">
             <Label x:Name="TagLabel" Text="TagLabel">
             </Label>
-            <Label x:Name="PredictionLabel" Text="PredictionLabel">
-            </Label>
         </StackLayout>
         <Image x:Name="image" Aspect="AspectFit" />
-    </StackLayout>
+        <Button x:Name="YesButton"  Text="Yes!" Clicked="successfulPrediction" IsEnabled="False"/>
+        <Button x:Name="NoButton" Text="No..." Clicked="failedPrediction" IsEnabled="False"/>
+            <Label Text="If I got it wrong, could you tell me what it is?"/>
+            <Entry x:Name="newTagEntry" Placeholder="New Tag"/>
+            <Button x:Name="SumbitButton" Text="Submit" Clicked="submitTag" IsEnabled="False"/>
+            <Label Text="If you've added some images to my database, I'll need some time to update my knowledge. Hit train when you want me to progress to my next iteration"/>
+            <Button x:Name="TrainButton" Text="Train" Clicked="Train" IsEnabled="False"/>
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

@@ -11,10 +11,10 @@ namespace MyNewApp.DataModels
         [JsonProperty(PropertyName = "Id")]
         public string ID { get; set; }
 
-        [JsonProperty(PropertyName = "Longitude")]
-        public float Longitude { get; set; }
+        [JsonProperty(PropertyName = "Result")]
+        public bool Result { get; set; }
 
-        [JsonProperty(PropertyName = "Latitude")]
-        public float Latitude { get; set; }
+        [JsonProperty(PropertyName = "Prediction")]
+        public string Prediction { get; set; }
     }
 }

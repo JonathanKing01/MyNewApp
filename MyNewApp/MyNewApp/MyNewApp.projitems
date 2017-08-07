@@ -21,6 +21,8 @@
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)DataModels\NotMountainModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\EvaluationModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\IterationModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\TagModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)TabsPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
